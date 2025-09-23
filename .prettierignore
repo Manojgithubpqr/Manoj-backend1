@@ -1,0 +1,6 @@
+/.vs Code
+/.node modeles
+/.dist
+/.env
+*.env
+.env.*
